@@ -1,6 +1,6 @@
 # Project: Expense Tracker 🌟
- Languages: HTML, CSS, JS
+ Used Languages: HTML, CSS, JS
 
-## Author: Purnima Gangwar👩‍💻
+ Author: Purnima Gangwar👩‍💻
 
  THANK YOU!
