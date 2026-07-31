@@ -7,7 +7,7 @@ CSS3 – Styling and responsive design
 JavaScript – Functionality and transaction management
 
 📂 Project Structure
-# EXPENSETRACKER:
+# EXPENSETRACKER/
 -index.html
 -style.css
 -script.js
