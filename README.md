@@ -13,7 +13,7 @@ JavaScript – Functionality and transaction management
 - script.js
 - README.md
 
-## Features
+# Features
 - Add income
 - Add expense
 - Delete transaction
