@@ -8,10 +8,15 @@ JavaScript – Functionality and transaction management
 
 📂 Project Structure
 # EXPENSETRACKER/
--index.html
--style.css
--script.js
--README.md
+- index.html
+- style.css
+- script.js
+- README.md
+
+## Features
+- Add income
+- Add expense
+- Delete transaction
 
  Author: Purnima Gangwar👩‍💻
 
