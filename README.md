@@ -1,4 +1,4 @@
-## Project: Expense Tracker 🌟
+# Project: Expense Tracker 🌟
 A simple and user-friendly Expense Tracker built using HTML, CSS, and JavaScript to help users record, manage, and track their daily income and expenses.
 
 🛠️ Technologies Used:
@@ -7,13 +7,13 @@ CSS3 – Styling and responsive design
 JavaScript – Functionality and transaction management
 
 📂 Project Structure
-# EXPENSETRACKER/
+## EXPENSETRACKER/
 - index.html
 - style.css
 - script.js
 - README.md
 
-# Features
+## Features
 - Add income
 - Add expense
 - Delete transaction
