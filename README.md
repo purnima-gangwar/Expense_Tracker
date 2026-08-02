@@ -23,6 +23,6 @@ Clone the repository: git clone https://github.com/purnima-gangwar/Expense-Track
 - Add expense
 - Delete transaction
 
- Author: Purnima Gangwar👩‍💻
+ ## Author: Purnima Gangwar👩‍💻
 
- THANK YOU!
+## THANK YOU!
