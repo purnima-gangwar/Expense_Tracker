@@ -13,6 +13,11 @@ JavaScript – Functionality and transaction management
 - script.js
 - README.md
 
+  ⚙️ How to Run
+Clone the repository: git clone https://github.com/purnima-gangwar/Expense-Tracker.git
+- Open the project folder.
+- Open index.html in your browser.
+
 ## Features
 - Add income
 - Add expense
