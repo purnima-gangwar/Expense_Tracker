@@ -6,7 +6,7 @@ HTML – Structure of the application
 CSS – Styling and responsive design
 JavaScript – Functionality and transaction management
 
-📂 Project Structure
+📂 Project Structure:
 ## EXPENSETRACKER/
 - index.html
 - style.css
