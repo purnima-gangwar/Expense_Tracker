@@ -24,12 +24,12 @@ Clone the repository: git clone https://github.com/purnima-gangwar/Expense_Track
 - Delete transaction
 
   ## What I Learned:
--DOM manipulation using JavaScript
--Handling user input and form events
--Working with arrays and objects
--Dynamic HTML content creation
--Basic expense and balance calculations
--Creating a responsive user interface
+- DOM manipulation using JavaScript
+- Handling user input and form events
+- Working with arrays and objects
+- Dynamic HTML content creation
+- Basic expense and balance calculations
+- Creating a responsive user interface
 
  ## Author: Purnima Gangwar👩‍💻
 
