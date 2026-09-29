@@ -31,6 +31,6 @@ Clone the repository: git clone https://github.com/purnima-gangwar/Expense_Track
 - Basic expense and balance calculations
 - Creating a responsive user interface
 
- ## Author: Purnima Gangwar👩‍💻
+ ## Author: Purnima Gangwar.
 
 ## THANK YOU!
