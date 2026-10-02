@@ -22,7 +22,7 @@ Clone the repository: git clone https://github.com/purnima-gangwar/Expense_Track
 - Add expense
 - Delete transaction
 
-  ## What I Learned:
+  ## What I Learned
 - DOM manipulation using JavaScript
 - Handling user input and form events
 - Working with arrays and objects
